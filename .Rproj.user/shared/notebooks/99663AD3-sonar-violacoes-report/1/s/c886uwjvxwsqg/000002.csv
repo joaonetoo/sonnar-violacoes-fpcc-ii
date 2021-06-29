@@ -1,0 +1,5 @@
+"0","subtipos_code_smells = violacoes %>% "
+"0","                      filter(violation == ""code_smells"", proporcao_por_subtipo > 3) %>% "
+"0","                      group_by(violation_subtype) %>% "
+"0","                      summarise(ic = calcula_ci(dados_code_smells_ic, violation_subtype, proporcao_func), .groups = ""drop"")"
+"0",""

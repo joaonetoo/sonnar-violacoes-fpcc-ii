@@ -1,0 +1,9 @@
+"0","```r
+clima_jan_fev %>% 
+    ggplot(aes(x = temp_max)) + 
+    facet_wrap(~ ano)+ 
+    geom_histogram(binwidth = .5, fill = \"steelblue\", color = \"black\") +
+    ggtitle(\" Histograma da temperatura mÃ¡xima das cidades entre Jan e Fev dos Ãºltimos anos\") +
+
+    geom_rug()
+```"

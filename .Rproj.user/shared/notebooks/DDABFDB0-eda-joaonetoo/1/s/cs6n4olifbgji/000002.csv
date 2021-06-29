@@ -1,0 +1,4 @@
+"0","```r
+clima_2019 %>% 
+    filter(is.na(vento_medio))
+```"

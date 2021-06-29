@@ -1,0 +1,8 @@
+"0","violacoes = dados %>% "
+"0","  group_by(violation, violation_subtype) %>% "
+"0","  summarise("
+"0","  soma_por_subtipo = sum(count),"
+"0","  .groups =""drop"")  %>% arrange(desc(soma_por_subtipo), .by_group = TRUE) %>% "
+"0","  mutate(proporcao_por_subtipo = if_else(violation == ""code_smells"", (soma_por_subtipo/sum(soma_por_subtipo[violation == ""code_smells""]))*100"
+"0","                                         ,(soma_por_subtipo/sum(soma_por_subtipo[violation == ""bad_practices""]))*100))"
+"0","violacoes"

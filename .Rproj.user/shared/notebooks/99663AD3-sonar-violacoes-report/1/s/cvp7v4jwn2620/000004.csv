@@ -1,0 +1,5 @@
+"0","subtipos_bad_practices = violacoes %>% "
+"0","                      filter(violation == ""bad_practices"", proporcao_por_subtipo > 3) %>% "
+"0","                      group_by(violation_subtype) %>% "
+"0","                      summarise(ic = calcula_ci(dados_bad_practices_ic, violation_subtype, proporcao_func), .groups = ""drop"")"
+"0",""

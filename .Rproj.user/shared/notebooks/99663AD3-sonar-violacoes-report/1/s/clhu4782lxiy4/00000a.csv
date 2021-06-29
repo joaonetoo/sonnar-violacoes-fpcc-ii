@@ -1,0 +1,6 @@
+"0","dados %>%"
+"0","        group_by(violation) %>% "
+"0","        summarise("
+"0","        soma = sum(count),"
+"0","        .groups =""drop"")  %>% arrange(desc(soma), .by_group = TRUE) %>% "
+"0","        mutate(violacao_proporcao =  (soma/sum(soma))*100) "

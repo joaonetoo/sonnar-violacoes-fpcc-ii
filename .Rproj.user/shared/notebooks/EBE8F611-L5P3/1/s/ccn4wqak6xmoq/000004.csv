@@ -1,0 +1,7 @@
+"0","```r
+pR2(matches)
+```"
+"1","fitting null model for pseudo-r2
+          llh       llhNull            G2      McFadden          r2ML          r2CU 
+-2255.1975822 -3181.5184892  1852.6418141     0.2911569     0.3277005     0.4402874 
+"

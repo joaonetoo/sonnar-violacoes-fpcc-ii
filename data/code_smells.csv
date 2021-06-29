@@ -1,0 +1,18 @@
+name,Speculative Generality,Code Duplication,Lazy Class,Refused Parent Bequest,Long Parameter List,Long Method,Dead Code,Complex Method,Complex Class,Spaghetti Code,Long Class,Comments
+Scott Wegner,0,10,3,0,2,9,32,7,6,0,6,5
+Maximilian Michels,5,171,15,0,46,231,160,67,294,0,63,212
+Thomas Groh,1,46,4,0,11,89,73,32,45,0,27,44
+Davor Bonaci,10,326,28,0,92,462,296,128,317,0,120,405
+Luke Cwik,2,40,5,0,72,191,63,69,83,1,15,31
+Dan Halperin,7,85,6,1,4,92,146,42,82,0,24,79
+Jean-Baptiste Onofre,6,113,14,1,75,214,149,98,172,0,44,154
+Kenneth Knowles,4,115,4,0,66,266,225,62,102,0,41,164
+Silviu Calinoiu,0,6,0,0,0,14,20,0,5,0,0,3
+Ben Chambers,2,17,0,0,13,91,95,12,48,0,4,18
+Aljoscha Krettek,5,169,25,0,46,232,165,64,164,0,60,213
+Amit Sela,0,10,0,0,0,27,15,12,5,0,3,6
+Robert Bradshaw,8,59,0,0,0,69,98,14,39,0,18,52
+Charles Chen,10,54,1,0,3,56,84,5,36,0,17,55
+Ahmet Altay,11,68,1,0,0,94,156,7,45,0,20,57
+Isma√il Mejea,0,2,0,0,0,2,3,5,0,0,1,1
+Chamikara Jayalath,4,22,0,0,1,24,32,2,20,0,6,18

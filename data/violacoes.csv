@@ -1,0 +1,800 @@
+violation,name,violation_subtype,count
+code_smells,Scott Wegner,Speculative Generality,0
+code_smells,Maximilian Michels,Speculative Generality,5
+code_smells,Thomas Groh,Speculative Generality,1
+code_smells,Davor Bonaci,Speculative Generality,10
+code_smells,Luke Cwik,Speculative Generality,2
+code_smells,Dan Halperin,Speculative Generality,7
+code_smells,Jean-Baptiste Onofre,Speculative Generality,6
+code_smells,Kenneth Knowles,Speculative Generality,4
+code_smells,Silviu Calinoiu,Speculative Generality,0
+code_smells,Ben Chambers,Speculative Generality,2
+code_smells,Aljoscha Krettek,Speculative Generality,5
+code_smells,Amit Sela,Speculative Generality,0
+code_smells,Robert Bradshaw,Speculative Generality,8
+code_smells,Charles Chen,Speculative Generality,10
+code_smells,Ahmet Altay,Speculative Generality,11
+code_smells,Isma√il Mejea,Speculative Generality,0
+code_smells,Chamikara Jayalath,Speculative Generality,4
+code_smells,Scott Wegner,Code Duplication,10
+code_smells,Maximilian Michels,Code Duplication,171
+code_smells,Thomas Groh,Code Duplication,46
+code_smells,Davor Bonaci,Code Duplication,326
+code_smells,Luke Cwik,Code Duplication,40
+code_smells,Dan Halperin,Code Duplication,85
+code_smells,Jean-Baptiste Onofre,Code Duplication,113
+code_smells,Kenneth Knowles,Code Duplication,115
+code_smells,Silviu Calinoiu,Code Duplication,6
+code_smells,Ben Chambers,Code Duplication,17
+code_smells,Aljoscha Krettek,Code Duplication,169
+code_smells,Amit Sela,Code Duplication,10
+code_smells,Robert Bradshaw,Code Duplication,59
+code_smells,Charles Chen,Code Duplication,54
+code_smells,Ahmet Altay,Code Duplication,68
+code_smells,Isma√il Mejea,Code Duplication,2
+code_smells,Chamikara Jayalath,Code Duplication,22
+code_smells,Scott Wegner,Lazy Class,3
+code_smells,Maximilian Michels,Lazy Class,15
+code_smells,Thomas Groh,Lazy Class,4
+code_smells,Davor Bonaci,Lazy Class,28
+code_smells,Luke Cwik,Lazy Class,5
+code_smells,Dan Halperin,Lazy Class,6
+code_smells,Jean-Baptiste Onofre,Lazy Class,14
+code_smells,Kenneth Knowles,Lazy Class,4
+code_smells,Silviu Calinoiu,Lazy Class,0
+code_smells,Ben Chambers,Lazy Class,0
+code_smells,Aljoscha Krettek,Lazy Class,25
+code_smells,Amit Sela,Lazy Class,0
+code_smells,Robert Bradshaw,Lazy Class,0
+code_smells,Charles Chen,Lazy Class,1
+code_smells,Ahmet Altay,Lazy Class,1
+code_smells,Isma√il Mejea,Lazy Class,0
+code_smells,Chamikara Jayalath,Lazy Class,0
+code_smells,Scott Wegner,Refused Parent Bequest,0
+code_smells,Maximilian Michels,Refused Parent Bequest,0
+code_smells,Thomas Groh,Refused Parent Bequest,0
+code_smells,Davor Bonaci,Refused Parent Bequest,0
+code_smells,Luke Cwik,Refused Parent Bequest,0
+code_smells,Dan Halperin,Refused Parent Bequest,1
+code_smells,Jean-Baptiste Onofre,Refused Parent Bequest,1
+code_smells,Kenneth Knowles,Refused Parent Bequest,0
+code_smells,Silviu Calinoiu,Refused Parent Bequest,0
+code_smells,Ben Chambers,Refused Parent Bequest,0
+code_smells,Aljoscha Krettek,Refused Parent Bequest,0
+code_smells,Amit Sela,Refused Parent Bequest,0
+code_smells,Robert Bradshaw,Refused Parent Bequest,0
+code_smells,Charles Chen,Refused Parent Bequest,0
+code_smells,Ahmet Altay,Refused Parent Bequest,0
+code_smells,Isma√il Mejea,Refused Parent Bequest,0
+code_smells,Chamikara Jayalath,Refused Parent Bequest,0
+code_smells,Scott Wegner,Long Parameter List,2
+code_smells,Maximilian Michels,Long Parameter List,46
+code_smells,Thomas Groh,Long Parameter List,11
+code_smells,Davor Bonaci,Long Parameter List,92
+code_smells,Luke Cwik,Long Parameter List,72
+code_smells,Dan Halperin,Long Parameter List,4
+code_smells,Jean-Baptiste Onofre,Long Parameter List,75
+code_smells,Kenneth Knowles,Long Parameter List,66
+code_smells,Silviu Calinoiu,Long Parameter List,0
+code_smells,Ben Chambers,Long Parameter List,13
+code_smells,Aljoscha Krettek,Long Parameter List,46
+code_smells,Amit Sela,Long Parameter List,0
+code_smells,Robert Bradshaw,Long Parameter List,0
+code_smells,Charles Chen,Long Parameter List,3
+code_smells,Ahmet Altay,Long Parameter List,0
+code_smells,Isma√il Mejea,Long Parameter List,0
+code_smells,Chamikara Jayalath,Long Parameter List,1
+code_smells,Scott Wegner,Long Method,9
+code_smells,Maximilian Michels,Long Method,231
+code_smells,Thomas Groh,Long Method,89
+code_smells,Davor Bonaci,Long Method,462
+code_smells,Luke Cwik,Long Method,191
+code_smells,Dan Halperin,Long Method,92
+code_smells,Jean-Baptiste Onofre,Long Method,214
+code_smells,Kenneth Knowles,Long Method,266
+code_smells,Silviu Calinoiu,Long Method,14
+code_smells,Ben Chambers,Long Method,91
+code_smells,Aljoscha Krettek,Long Method,232
+code_smells,Amit Sela,Long Method,27
+code_smells,Robert Bradshaw,Long Method,69
+code_smells,Charles Chen,Long Method,56
+code_smells,Ahmet Altay,Long Method,94
+code_smells,Isma√il Mejea,Long Method,2
+code_smells,Chamikara Jayalath,Long Method,24
+code_smells,Scott Wegner,Dead Code,32
+code_smells,Maximilian Michels,Dead Code,160
+code_smells,Thomas Groh,Dead Code,73
+code_smells,Davor Bonaci,Dead Code,296
+code_smells,Luke Cwik,Dead Code,63
+code_smells,Dan Halperin,Dead Code,146
+code_smells,Jean-Baptiste Onofre,Dead Code,149
+code_smells,Kenneth Knowles,Dead Code,225
+code_smells,Silviu Calinoiu,Dead Code,20
+code_smells,Ben Chambers,Dead Code,95
+code_smells,Aljoscha Krettek,Dead Code,165
+code_smells,Amit Sela,Dead Code,15
+code_smells,Robert Bradshaw,Dead Code,98
+code_smells,Charles Chen,Dead Code,84
+code_smells,Ahmet Altay,Dead Code,156
+code_smells,Isma√il Mejea,Dead Code,3
+code_smells,Chamikara Jayalath,Dead Code,32
+code_smells,Scott Wegner,Complex Method,7
+code_smells,Maximilian Michels,Complex Method,67
+code_smells,Thomas Groh,Complex Method,32
+code_smells,Davor Bonaci,Complex Method,128
+code_smells,Luke Cwik,Complex Method,69
+code_smells,Dan Halperin,Complex Method,42
+code_smells,Jean-Baptiste Onofre,Complex Method,98
+code_smells,Kenneth Knowles,Complex Method,62
+code_smells,Silviu Calinoiu,Complex Method,0
+code_smells,Ben Chambers,Complex Method,12
+code_smells,Aljoscha Krettek,Complex Method,64
+code_smells,Amit Sela,Complex Method,12
+code_smells,Robert Bradshaw,Complex Method,14
+code_smells,Charles Chen,Complex Method,5
+code_smells,Ahmet Altay,Complex Method,7
+code_smells,Isma√il Mejea,Complex Method,5
+code_smells,Chamikara Jayalath,Complex Method,2
+code_smells,Scott Wegner,Complex Class,6
+code_smells,Maximilian Michels,Complex Class,294
+code_smells,Thomas Groh,Complex Class,45
+code_smells,Davor Bonaci,Complex Class,317
+code_smells,Luke Cwik,Complex Class,83
+code_smells,Dan Halperin,Complex Class,82
+code_smells,Jean-Baptiste Onofre,Complex Class,172
+code_smells,Kenneth Knowles,Complex Class,102
+code_smells,Silviu Calinoiu,Complex Class,5
+code_smells,Ben Chambers,Complex Class,48
+code_smells,Aljoscha Krettek,Complex Class,164
+code_smells,Amit Sela,Complex Class,5
+code_smells,Robert Bradshaw,Complex Class,39
+code_smells,Charles Chen,Complex Class,36
+code_smells,Ahmet Altay,Complex Class,45
+code_smells,Isma√il Mejea,Complex Class,0
+code_smells,Chamikara Jayalath,Complex Class,20
+code_smells,Scott Wegner,Spaghetti Code,0
+code_smells,Maximilian Michels,Spaghetti Code,0
+code_smells,Thomas Groh,Spaghetti Code,0
+code_smells,Davor Bonaci,Spaghetti Code,0
+code_smells,Luke Cwik,Spaghetti Code,1
+code_smells,Dan Halperin,Spaghetti Code,0
+code_smells,Jean-Baptiste Onofre,Spaghetti Code,0
+code_smells,Kenneth Knowles,Spaghetti Code,0
+code_smells,Silviu Calinoiu,Spaghetti Code,0
+code_smells,Ben Chambers,Spaghetti Code,0
+code_smells,Aljoscha Krettek,Spaghetti Code,0
+code_smells,Amit Sela,Spaghetti Code,0
+code_smells,Robert Bradshaw,Spaghetti Code,0
+code_smells,Charles Chen,Spaghetti Code,0
+code_smells,Ahmet Altay,Spaghetti Code,0
+code_smells,Isma√il Mejea,Spaghetti Code,0
+code_smells,Chamikara Jayalath,Spaghetti Code,0
+code_smells,Scott Wegner,Long Class,6
+code_smells,Maximilian Michels,Long Class,63
+code_smells,Thomas Groh,Long Class,27
+code_smells,Davor Bonaci,Long Class,120
+code_smells,Luke Cwik,Long Class,15
+code_smells,Dan Halperin,Long Class,24
+code_smells,Jean-Baptiste Onofre,Long Class,44
+code_smells,Kenneth Knowles,Long Class,41
+code_smells,Silviu Calinoiu,Long Class,0
+code_smells,Ben Chambers,Long Class,4
+code_smells,Aljoscha Krettek,Long Class,60
+code_smells,Amit Sela,Long Class,3
+code_smells,Robert Bradshaw,Long Class,18
+code_smells,Charles Chen,Long Class,17
+code_smells,Ahmet Altay,Long Class,20
+code_smells,Isma√il Mejea,Long Class,1
+code_smells,Chamikara Jayalath,Long Class,6
+code_smells,Scott Wegner,Comments,5
+code_smells,Maximilian Michels,Comments,212
+code_smells,Thomas Groh,Comments,44
+code_smells,Davor Bonaci,Comments,405
+code_smells,Luke Cwik,Comments,31
+code_smells,Dan Halperin,Comments,79
+code_smells,Jean-Baptiste Onofre,Comments,154
+code_smells,Kenneth Knowles,Comments,164
+code_smells,Silviu Calinoiu,Comments,3
+code_smells,Ben Chambers,Comments,18
+code_smells,Aljoscha Krettek,Comments,213
+code_smells,Amit Sela,Comments,6
+code_smells,Robert Bradshaw,Comments,52
+code_smells,Charles Chen,Comments,55
+code_smells,Ahmet Altay,Comments,57
+code_smells,Isma√il Mejea,Comments,1
+code_smells,Chamikara Jayalath,Comments,18
+bad_practices,Scott Wegner,Redundant cast,1
+bad_practices,Maximilian Michels,Redundant cast,11
+bad_practices,Thomas Groh,Redundant cast,2
+bad_practices,Davor Bonaci,Redundant cast,22
+bad_practices,Luke Cwik,Redundant cast,3
+bad_practices,Dan Halperin,Redundant cast,0
+bad_practices,Jean-Baptiste Onofre,Redundant cast,11
+bad_practices,Kenneth Knowles,Redundant cast,2
+bad_practices,Silviu Calinoiu,Redundant cast,0
+bad_practices,Ben Chambers,Redundant cast,1
+bad_practices,Aljoscha Krettek,Redundant cast,11
+bad_practices,Amit Sela,Redundant cast,0
+bad_practices,Robert Bradshaw,Redundant cast,0
+bad_practices,Charles Chen,Redundant cast,0
+bad_practices,Ahmet Altay,Redundant cast,0
+bad_practices,Isma√il Mejea,Redundant cast,0
+bad_practices,Chamikara Jayalath,Redundant cast,0
+bad_practices,Scott Wegner,Non-Serializable Field,0
+bad_practices,Maximilian Michels,Non-Serializable Field,20
+bad_practices,Thomas Groh,Non-Serializable Field,2
+bad_practices,Davor Bonaci,Non-Serializable Field,41
+bad_practices,Luke Cwik,Non-Serializable Field,0
+bad_practices,Dan Halperin,Non-Serializable Field,22
+bad_practices,Jean-Baptiste Onofre,Non-Serializable Field,13
+bad_practices,Kenneth Knowles,Non-Serializable Field,11
+bad_practices,Silviu Calinoiu,Non-Serializable Field,7
+bad_practices,Ben Chambers,Non-Serializable Field,0
+bad_practices,Aljoscha Krettek,Non-Serializable Field,19
+bad_practices,Amit Sela,Non-Serializable Field,0
+bad_practices,Robert Bradshaw,Non-Serializable Field,18
+bad_practices,Charles Chen,Non-Serializable Field,19
+bad_practices,Ahmet Altay,Non-Serializable Field,33
+bad_practices,Isma√il Mejea,Non-Serializable Field,0
+bad_practices,Chamikara Jayalath,Non-Serializable Field,6
+bad_practices,Scott Wegner,Null Object Violation,1
+bad_practices,Maximilian Michels,Null Object Violation,21
+bad_practices,Thomas Groh,Null Object Violation,13
+bad_practices,Davor Bonaci,Null Object Violation,44
+bad_practices,Luke Cwik,Null Object Violation,5
+bad_practices,Dan Halperin,Null Object Violation,8
+bad_practices,Jean-Baptiste Onofre,Null Object Violation,19
+bad_practices,Kenneth Knowles,Null Object Violation,11
+bad_practices,Silviu Calinoiu,Null Object Violation,0
+bad_practices,Ben Chambers,Null Object Violation,2
+bad_practices,Aljoscha Krettek,Null Object Violation,22
+bad_practices,Amit Sela,Null Object Violation,1
+bad_practices,Robert Bradshaw,Null Object Violation,3
+bad_practices,Charles Chen,Null Object Violation,3
+bad_practices,Ahmet Altay,Null Object Violation,3
+bad_practices,Isma√il Mejea,Null Object Violation,1
+bad_practices,Chamikara Jayalath,Null Object Violation,1
+bad_practices,Scott Wegner,Floating point numbers should not be tested for equality,1
+bad_practices,Maximilian Michels,Floating point numbers should not be tested for equality,3
+bad_practices,Thomas Groh,Floating point numbers should not be tested for equality,1
+bad_practices,Davor Bonaci,Floating point numbers should not be tested for equality,6
+bad_practices,Luke Cwik,Floating point numbers should not be tested for equality,3
+bad_practices,Dan Halperin,Floating point numbers should not be tested for equality,0
+bad_practices,Jean-Baptiste Onofre,Floating point numbers should not be tested for equality,4
+bad_practices,Kenneth Knowles,Floating point numbers should not be tested for equality,0
+bad_practices,Silviu Calinoiu,Floating point numbers should not be tested for equality,0
+bad_practices,Ben Chambers,Floating point numbers should not be tested for equality,0
+bad_practices,Aljoscha Krettek,Floating point numbers should not be tested for equality,3
+bad_practices,Amit Sela,Floating point numbers should not be tested for equality,0
+bad_practices,Robert Bradshaw,Floating point numbers should not be tested for equality,0
+bad_practices,Charles Chen,Floating point numbers should not be tested for equality,0
+bad_practices,Ahmet Altay,Floating point numbers should not be tested for equality,0
+bad_practices,Isma√il Mejea,Floating point numbers should not be tested for equality,0
+bad_practices,Chamikara Jayalath,Floating point numbers should not be tested for equality,0
+bad_practices,Scott Wegner,Public methods should throw at most one checked exception,0
+bad_practices,Maximilian Michels,Public methods should throw at most one checked exception,31
+bad_practices,Thomas Groh,Public methods should throw at most one checked exception,2
+bad_practices,Davor Bonaci,Public methods should throw at most one checked exception,62
+bad_practices,Luke Cwik,Public methods should throw at most one checked exception,2
+bad_practices,Dan Halperin,Public methods should throw at most one checked exception,31
+bad_practices,Jean-Baptiste Onofre,Public methods should throw at most one checked exception,6
+bad_practices,Kenneth Knowles,Public methods should throw at most one checked exception,8
+bad_practices,Silviu Calinoiu,Public methods should throw at most one checked exception,0
+bad_practices,Ben Chambers,Public methods should throw at most one checked exception,1
+bad_practices,Aljoscha Krettek,Public methods should throw at most one checked exception,31
+bad_practices,Amit Sela,Public methods should throw at most one checked exception,16
+bad_practices,Robert Bradshaw,Public methods should throw at most one checked exception,30
+bad_practices,Charles Chen,Public methods should throw at most one checked exception,30
+bad_practices,Ahmet Altay,Public methods should throw at most one checked exception,24
+bad_practices,Isma√il Mejea,Public methods should throw at most one checked exception,0
+bad_practices,Chamikara Jayalath,Public methods should throw at most one checked exception,12
+bad_practices,Scott Wegner,"A ""Set<Class>"" cannot contain a ""Class""",0
+bad_practices,Maximilian Michels,"A ""Set<Class>"" cannot contain a ""Class""",2
+bad_practices,Thomas Groh,"A ""Set<Class>"" cannot contain a ""Class""",0
+bad_practices,Davor Bonaci,"A ""Set<Class>"" cannot contain a ""Class""",4
+bad_practices,Luke Cwik,"A ""Set<Class>"" cannot contain a ""Class""",0
+bad_practices,Dan Halperin,"A ""Set<Class>"" cannot contain a ""Class""",0
+bad_practices,Jean-Baptiste Onofre,"A ""Set<Class>"" cannot contain a ""Class""",1
+bad_practices,Kenneth Knowles,"A ""Set<Class>"" cannot contain a ""Class""",0
+bad_practices,Silviu Calinoiu,"A ""Set<Class>"" cannot contain a ""Class""",0
+bad_practices,Ben Chambers,"A ""Set<Class>"" cannot contain a ""Class""",0
+bad_practices,Aljoscha Krettek,"A ""Set<Class>"" cannot contain a ""Class""",2
+bad_practices,Amit Sela,"A ""Set<Class>"" cannot contain a ""Class""",0
+bad_practices,Robert Bradshaw,"A ""Set<Class>"" cannot contain a ""Class""",0
+bad_practices,Charles Chen,"A ""Set<Class>"" cannot contain a ""Class""",0
+bad_practices,Ahmet Altay,"A ""Set<Class>"" cannot contain a ""Class""",0
+bad_practices,Isma√il Mejea,"A ""Set<Class>"" cannot contain a ""Class""",0
+bad_practices,Chamikara Jayalath,"A ""Set<Class>"" cannot contain a ""Class""",0
+bad_practices,Scott Wegner,Non Static Final and Public,0
+bad_practices,Maximilian Michels,Non Static Final and Public,32
+bad_practices,Thomas Groh,Non Static Final and Public,2
+bad_practices,Davor Bonaci,Non Static Final and Public,64
+bad_practices,Luke Cwik,Non Static Final and Public,7
+bad_practices,Dan Halperin,Non Static Final and Public,7
+bad_practices,Jean-Baptiste Onofre,Non Static Final and Public,42
+bad_practices,Kenneth Knowles,Non Static Final and Public,8
+bad_practices,Silviu Calinoiu,Non Static Final and Public,0
+bad_practices,Ben Chambers,Non Static Final and Public,10
+bad_practices,Aljoscha Krettek,Non Static Final and Public,32
+bad_practices,Amit Sela,Non Static Final and Public,0
+bad_practices,Robert Bradshaw,Non Static Final and Public,10
+bad_practices,Charles Chen,Non Static Final and Public,10
+bad_practices,Ahmet Altay,Non Static Final and Public,10
+bad_practices,Isma√il Mejea,Non Static Final and Public,0
+bad_practices,Chamikara Jayalath,Non Static Final and Public,6
+bad_practices,Scott Wegner,Long switch case,0
+bad_practices,Maximilian Michels,Long switch case,16
+bad_practices,Thomas Groh,Long switch case,0
+bad_practices,Davor Bonaci,Long switch case,32
+bad_practices,Luke Cwik,Long switch case,7
+bad_practices,Dan Halperin,Long switch case,6
+bad_practices,Jean-Baptiste Onofre,Long switch case,19
+bad_practices,Kenneth Knowles,Long switch case,3
+bad_practices,Silviu Calinoiu,Long switch case,2
+bad_practices,Ben Chambers,Long switch case,1
+bad_practices,Aljoscha Krettek,Long switch case,16
+bad_practices,Amit Sela,Long switch case,0
+bad_practices,Robert Bradshaw,Long switch case,6
+bad_practices,Charles Chen,Long switch case,5
+bad_practices,Ahmet Altay,Long switch case,12
+bad_practices,Isma√il Mejea,Long switch case,0
+bad_practices,Chamikara Jayalath,Long switch case,3
+bad_practices,Scott Wegner,"Classes that override ""clone"" should be ""Cloneable"" and call ""super.clone()""",0
+bad_practices,Maximilian Michels,"Classes that override ""clone"" should be ""Cloneable"" and call ""super.clone()""",1
+bad_practices,Thomas Groh,"Classes that override ""clone"" should be ""Cloneable"" and call ""super.clone()""",0
+bad_practices,Davor Bonaci,"Classes that override ""clone"" should be ""Cloneable"" and call ""super.clone()""",2
+bad_practices,Luke Cwik,"Classes that override ""clone"" should be ""Cloneable"" and call ""super.clone()""",0
+bad_practices,Dan Halperin,"Classes that override ""clone"" should be ""Cloneable"" and call ""super.clone()""",1
+bad_practices,Jean-Baptiste Onofre,"Classes that override ""clone"" should be ""Cloneable"" and call ""super.clone()""",0
+bad_practices,Kenneth Knowles,"Classes that override ""clone"" should be ""Cloneable"" and call ""super.clone()""",1
+bad_practices,Silviu Calinoiu,"Classes that override ""clone"" should be ""Cloneable"" and call ""super.clone()""",0
+bad_practices,Ben Chambers,"Classes that override ""clone"" should be ""Cloneable"" and call ""super.clone()""",0
+bad_practices,Aljoscha Krettek,"Classes that override ""clone"" should be ""Cloneable"" and call ""super.clone()""",1
+bad_practices,Amit Sela,"Classes that override ""clone"" should be ""Cloneable"" and call ""super.clone()""",0
+bad_practices,Robert Bradshaw,"Classes that override ""clone"" should be ""Cloneable"" and call ""super.clone()""",0
+bad_practices,Charles Chen,"Classes that override ""clone"" should be ""Cloneable"" and call ""super.clone()""",0
+bad_practices,Ahmet Altay,"Classes that override ""clone"" should be ""Cloneable"" and call ""super.clone()""",0
+bad_practices,Isma√il Mejea,"Classes that override ""clone"" should be ""Cloneable"" and call ""super.clone()""",0
+bad_practices,Chamikara Jayalath,"Classes that override ""clone"" should be ""Cloneable"" and call ""super.clone()""",0
+bad_practices,Scott Wegner,Rename variable,68
+bad_practices,Maximilian Michels,Rename variable,1025
+bad_practices,Thomas Groh,Rename variable,270
+bad_practices,Davor Bonaci,Rename variable,2085
+bad_practices,Luke Cwik,Rename variable,124
+bad_practices,Dan Halperin,Rename variable,304
+bad_practices,Jean-Baptiste Onofre,Rename variable,753
+bad_practices,Kenneth Knowles,Rename variable,501
+bad_practices,Silviu Calinoiu,Rename variable,20
+bad_practices,Ben Chambers,Rename variable,134
+bad_practices,Aljoscha Krettek,Rename variable,1046
+bad_practices,Amit Sela,Rename variable,38
+bad_practices,Robert Bradshaw,Rename variable,146
+bad_practices,Charles Chen,Rename variable,166
+bad_practices,Ahmet Altay,Rename variable,179
+bad_practices,Isma√il Mejea,Rename variable,10
+bad_practices,Chamikara Jayalath,Rename variable,52
+bad_practices,Scott Wegner,Abstraction Violation,68
+bad_practices,Maximilian Michels,Abstraction Violation,1385
+bad_practices,Thomas Groh,Abstraction Violation,296
+bad_practices,Davor Bonaci,Abstraction Violation,2761
+bad_practices,Luke Cwik,Abstraction Violation,589
+bad_practices,Dan Halperin,Abstraction Violation,728
+bad_practices,Jean-Baptiste Onofre,Abstraction Violation,1480
+bad_practices,Kenneth Knowles,Abstraction Violation,568
+bad_practices,Silviu Calinoiu,Abstraction Violation,84
+bad_practices,Ben Chambers,Abstraction Violation,142
+bad_practices,Aljoscha Krettek,Abstraction Violation,1395
+bad_practices,Amit Sela,Abstraction Violation,45
+bad_practices,Robert Bradshaw,Abstraction Violation,722
+bad_practices,Charles Chen,Abstraction Violation,663
+bad_practices,Ahmet Altay,Abstraction Violation,972
+bad_practices,Isma√il Mejea,Abstraction Violation,14
+bad_practices,Chamikara Jayalath,Abstraction Violation,261
+bad_practices,Scott Wegner,"Loggers should be ""private static final"" and should share a naming convention",15
+bad_practices,Maximilian Michels,"Loggers should be ""private static final"" and should share a naming convention",75
+bad_practices,Thomas Groh,"Loggers should be ""private static final"" and should share a naming convention",15
+bad_practices,Davor Bonaci,"Loggers should be ""private static final"" and should share a naming convention",130
+bad_practices,Luke Cwik,"Loggers should be ""private static final"" and should share a naming convention",62
+bad_practices,Dan Halperin,"Loggers should be ""private static final"" and should share a naming convention",94
+bad_practices,Jean-Baptiste Onofre,"Loggers should be ""private static final"" and should share a naming convention",77
+bad_practices,Kenneth Knowles,"Loggers should be ""private static final"" and should share a naming convention",89
+bad_practices,Silviu Calinoiu,"Loggers should be ""private static final"" and should share a naming convention",0
+bad_practices,Ben Chambers,"Loggers should be ""private static final"" and should share a naming convention",12
+bad_practices,Aljoscha Krettek,"Loggers should be ""private static final"" and should share a naming convention",68
+bad_practices,Amit Sela,"Loggers should be ""private static final"" and should share a naming convention",16
+bad_practices,Robert Bradshaw,"Loggers should be ""private static final"" and should share a naming convention",72
+bad_practices,Charles Chen,"Loggers should be ""private static final"" and should share a naming convention",76
+bad_practices,Ahmet Altay,"Loggers should be ""private static final"" and should share a naming convention",43
+bad_practices,Isma√il Mejea,"Loggers should be ""private static final"" and should share a naming convention",0
+bad_practices,Chamikara Jayalath,"Loggers should be ""private static final"" and should share a naming convention",30
+bad_practices,Scott Wegner,Performance Risk,0
+bad_practices,Maximilian Michels,Performance Risk,1
+bad_practices,Thomas Groh,Performance Risk,1
+bad_practices,Davor Bonaci,Performance Risk,2
+bad_practices,Luke Cwik,Performance Risk,0
+bad_practices,Dan Halperin,Performance Risk,1
+bad_practices,Jean-Baptiste Onofre,Performance Risk,0
+bad_practices,Kenneth Knowles,Performance Risk,0
+bad_practices,Silviu Calinoiu,Performance Risk,0
+bad_practices,Ben Chambers,Performance Risk,0
+bad_practices,Aljoscha Krettek,Performance Risk,1
+bad_practices,Amit Sela,Performance Risk,0
+bad_practices,Robert Bradshaw,Performance Risk,3
+bad_practices,Charles Chen,Performance Risk,2
+bad_practices,Ahmet Altay,Performance Risk,1
+bad_practices,Isma√il Mejea,Performance Risk,0
+bad_practices,Chamikara Jayalath,Performance Risk,0
+bad_practices,Scott Wegner,Missing Switch Default,0
+bad_practices,Maximilian Michels,Missing Switch Default,6
+bad_practices,Thomas Groh,Missing Switch Default,0
+bad_practices,Davor Bonaci,Missing Switch Default,12
+bad_practices,Luke Cwik,Missing Switch Default,1
+bad_practices,Dan Halperin,Missing Switch Default,0
+bad_practices,Jean-Baptiste Onofre,Missing Switch Default,2
+bad_practices,Kenneth Knowles,Missing Switch Default,0
+bad_practices,Silviu Calinoiu,Missing Switch Default,0
+bad_practices,Ben Chambers,Missing Switch Default,0
+bad_practices,Aljoscha Krettek,Missing Switch Default,6
+bad_practices,Amit Sela,Missing Switch Default,0
+bad_practices,Robert Bradshaw,Missing Switch Default,0
+bad_practices,Charles Chen,Missing Switch Default,0
+bad_practices,Ahmet Altay,Missing Switch Default,0
+bad_practices,Isma√il Mejea,Missing Switch Default,0
+bad_practices,Chamikara Jayalath,Missing Switch Default,0
+bad_practices,Scott Wegner,Unnecessary Local Before Return,0
+bad_practices,Maximilian Michels,Unnecessary Local Before Return,46
+bad_practices,Thomas Groh,Unnecessary Local Before Return,6
+bad_practices,Davor Bonaci,Unnecessary Local Before Return,88
+bad_practices,Luke Cwik,Unnecessary Local Before Return,9
+bad_practices,Dan Halperin,Unnecessary Local Before Return,3
+bad_practices,Jean-Baptiste Onofre,Unnecessary Local Before Return,33
+bad_practices,Kenneth Knowles,Unnecessary Local Before Return,6
+bad_practices,Silviu Calinoiu,Unnecessary Local Before Return,0
+bad_practices,Ben Chambers,Unnecessary Local Before Return,7
+bad_practices,Aljoscha Krettek,Unnecessary Local Before Return,44
+bad_practices,Amit Sela,Unnecessary Local Before Return,0
+bad_practices,Robert Bradshaw,Unnecessary Local Before Return,3
+bad_practices,Charles Chen,Unnecessary Local Before Return,2
+bad_practices,Ahmet Altay,Unnecessary Local Before Return,1
+bad_practices,Isma√il Mejea,Unnecessary Local Before Return,0
+bad_practices,Chamikara Jayalath,Unnecessary Local Before Return,0
+bad_practices,Scott Wegner,Reuse Method Parameter,1
+bad_practices,Maximilian Michels,Reuse Method Parameter,34
+bad_practices,Thomas Groh,Reuse Method Parameter,8
+bad_practices,Davor Bonaci,Reuse Method Parameter,69
+bad_practices,Luke Cwik,Reuse Method Parameter,12
+bad_practices,Dan Halperin,Reuse Method Parameter,9
+bad_practices,Jean-Baptiste Onofre,Reuse Method Parameter,34
+bad_practices,Kenneth Knowles,Reuse Method Parameter,14
+bad_practices,Silviu Calinoiu,Reuse Method Parameter,0
+bad_practices,Ben Chambers,Reuse Method Parameter,10
+bad_practices,Aljoscha Krettek,Reuse Method Parameter,42
+bad_practices,Amit Sela,Reuse Method Parameter,2
+bad_practices,Robert Bradshaw,Reuse Method Parameter,2
+bad_practices,Charles Chen,Reuse Method Parameter,2
+bad_practices,Ahmet Altay,Reuse Method Parameter,1
+bad_practices,Isma√il Mejea,Reuse Method Parameter,1
+bad_practices,Chamikara Jayalath,Reuse Method Parameter,0
+bad_practices,Scott Wegner,Style Violation,39
+bad_practices,Maximilian Michels,Style Violation,842
+bad_practices,Thomas Groh,Style Violation,190
+bad_practices,Davor Bonaci,Style Violation,1565
+bad_practices,Luke Cwik,Style Violation,190
+bad_practices,Dan Halperin,Style Violation,284
+bad_practices,Jean-Baptiste Onofre,Style Violation,706
+bad_practices,Kenneth Knowles,Style Violation,285
+bad_practices,Silviu Calinoiu,Style Violation,25
+bad_practices,Ben Chambers,Style Violation,65
+bad_practices,Aljoscha Krettek,Style Violation,795
+bad_practices,Amit Sela,Style Violation,22
+bad_practices,Robert Bradshaw,Style Violation,190
+bad_practices,Charles Chen,Style Violation,174
+bad_practices,Ahmet Altay,Style Violation,246
+bad_practices,Isma√il Mejea,Style Violation,7
+bad_practices,Chamikara Jayalath,Style Violation,67
+bad_practices,Scott Wegner,Complex Statement,1
+bad_practices,Maximilian Michels,Complex Statement,40
+bad_practices,Thomas Groh,Complex Statement,18
+bad_practices,Davor Bonaci,Complex Statement,80
+bad_practices,Luke Cwik,Complex Statement,11
+bad_practices,Dan Halperin,Complex Statement,24
+bad_practices,Jean-Baptiste Onofre,Complex Statement,34
+bad_practices,Kenneth Knowles,Complex Statement,15
+bad_practices,Silviu Calinoiu,Complex Statement,4
+bad_practices,Ben Chambers,Complex Statement,2
+bad_practices,Aljoscha Krettek,Complex Statement,41
+bad_practices,Amit Sela,Complex Statement,2
+bad_practices,Robert Bradshaw,Complex Statement,20
+bad_practices,Charles Chen,Complex Statement,18
+bad_practices,Ahmet Altay,Complex Statement,30
+bad_practices,Isma√il Mejea,Complex Statement,1
+bad_practices,Chamikara Jayalath,Complex Statement,7
+bad_practices,Scott Wegner,Casting Issue,0
+bad_practices,Maximilian Michels,Casting Issue,22
+bad_practices,Thomas Groh,Casting Issue,0
+bad_practices,Davor Bonaci,Casting Issue,42
+bad_practices,Luke Cwik,Casting Issue,16
+bad_practices,Dan Halperin,Casting Issue,3
+bad_practices,Jean-Baptiste Onofre,Casting Issue,26
+bad_practices,Kenneth Knowles,Casting Issue,8
+bad_practices,Silviu Calinoiu,Casting Issue,0
+bad_practices,Ben Chambers,Casting Issue,0
+bad_practices,Aljoscha Krettek,Casting Issue,21
+bad_practices,Amit Sela,Casting Issue,1
+bad_practices,Robert Bradshaw,Casting Issue,2
+bad_practices,Charles Chen,Casting Issue,0
+bad_practices,Ahmet Altay,Casting Issue,2
+bad_practices,Isma√il Mejea,Casting Issue,0
+bad_practices,Chamikara Jayalath,Casting Issue,0
+bad_practices,Scott Wegner,"""Thread.run()"" should not be called directly",0
+bad_practices,Maximilian Michels,"""Thread.run()"" should not be called directly",0
+bad_practices,Thomas Groh,"""Thread.run()"" should not be called directly",0
+bad_practices,Davor Bonaci,"""Thread.run()"" should not be called directly",0
+bad_practices,Luke Cwik,"""Thread.run()"" should not be called directly",1
+bad_practices,Dan Halperin,"""Thread.run()"" should not be called directly",0
+bad_practices,Jean-Baptiste Onofre,"""Thread.run()"" should not be called directly",1
+bad_practices,Kenneth Knowles,"""Thread.run()"" should not be called directly",0
+bad_practices,Silviu Calinoiu,"""Thread.run()"" should not be called directly",0
+bad_practices,Ben Chambers,"""Thread.run()"" should not be called directly",0
+bad_practices,Aljoscha Krettek,"""Thread.run()"" should not be called directly",0
+bad_practices,Amit Sela,"""Thread.run()"" should not be called directly",0
+bad_practices,Robert Bradshaw,"""Thread.run()"" should not be called directly",0
+bad_practices,Charles Chen,"""Thread.run()"" should not be called directly",0
+bad_practices,Ahmet Altay,"""Thread.run()"" should not be called directly",0
+bad_practices,Isma√il Mejea,"""Thread.run()"" should not be called directly",0
+bad_practices,Chamikara Jayalath,"""Thread.run()"" should not be called directly",0
+bad_practices,Scott Wegner,Null Object Exception,0
+bad_practices,Maximilian Michels,Null Object Exception,1
+bad_practices,Thomas Groh,Null Object Exception,0
+bad_practices,Davor Bonaci,Null Object Exception,2
+bad_practices,Luke Cwik,Null Object Exception,0
+bad_practices,Dan Halperin,Null Object Exception,0
+bad_practices,Jean-Baptiste Onofre,Null Object Exception,1
+bad_practices,Kenneth Knowles,Null Object Exception,0
+bad_practices,Silviu Calinoiu,Null Object Exception,0
+bad_practices,Ben Chambers,Null Object Exception,0
+bad_practices,Aljoscha Krettek,Null Object Exception,1
+bad_practices,Amit Sela,Null Object Exception,0
+bad_practices,Robert Bradshaw,Null Object Exception,0
+bad_practices,Charles Chen,Null Object Exception,0
+bad_practices,Ahmet Altay,Null Object Exception,0
+bad_practices,Isma√il Mejea,Null Object Exception,0
+bad_practices,Chamikara Jayalath,Null Object Exception,0
+bad_practices,Scott Wegner,Strings literals should be placed on the left side,0
+bad_practices,Maximilian Michels,Strings literals should be placed on the left side,41
+bad_practices,Thomas Groh,Strings literals should be placed on the left side,0
+bad_practices,Davor Bonaci,Strings literals should be placed on the left side,88
+bad_practices,Luke Cwik,Strings literals should be placed on the left side,8
+bad_practices,Dan Halperin,Strings literals should be placed on the left side,10
+bad_practices,Jean-Baptiste Onofre,Strings literals should be placed on the left side,34
+bad_practices,Kenneth Knowles,Strings literals should be placed on the left side,12
+bad_practices,Silviu Calinoiu,Strings literals should be placed on the left side,0
+bad_practices,Ben Chambers,Strings literals should be placed on the left side,7
+bad_practices,Aljoscha Krettek,Strings literals should be placed on the left side,44
+bad_practices,Amit Sela,Strings literals should be placed on the left side,5
+bad_practices,Robert Bradshaw,Strings literals should be placed on the left side,0
+bad_practices,Charles Chen,Strings literals should be placed on the left side,0
+bad_practices,Ahmet Altay,Strings literals should be placed on the left side,0
+bad_practices,Isma√il Mejea,Strings literals should be placed on the left side,0
+bad_practices,Chamikara Jayalath,Strings literals should be placed on the left side,0
+bad_practices,Scott Wegner,"Loggers should be ""private static final""",0
+bad_practices,Maximilian Michels,"Loggers should be ""private static final""",2
+bad_practices,Thomas Groh,"Loggers should be ""private static final""",0
+bad_practices,Davor Bonaci,"Loggers should be ""private static final""",4
+bad_practices,Luke Cwik,"Loggers should be ""private static final""",0
+bad_practices,Dan Halperin,"Loggers should be ""private static final""",0
+bad_practices,Jean-Baptiste Onofre,"Loggers should be ""private static final""",1
+bad_practices,Kenneth Knowles,"Loggers should be ""private static final""",0
+bad_practices,Silviu Calinoiu,"Loggers should be ""private static final""",0
+bad_practices,Ben Chambers,"Loggers should be ""private static final""",0
+bad_practices,Aljoscha Krettek,"Loggers should be ""private static final""",2
+bad_practices,Amit Sela,"Loggers should be ""private static final""",0
+bad_practices,Robert Bradshaw,"Loggers should be ""private static final""",0
+bad_practices,Charles Chen,"Loggers should be ""private static final""",0
+bad_practices,Ahmet Altay,"Loggers should be ""private static final""",0
+bad_practices,Isma√il Mejea,"Loggers should be ""private static final""",0
+bad_practices,Chamikara Jayalath,"Loggers should be ""private static final""",0
+bad_practices,Scott Wegner,Control flow statements should not be nested too deeply,0
+bad_practices,Maximilian Michels,Control flow statements should not be nested too deeply,50
+bad_practices,Thomas Groh,Control flow statements should not be nested too deeply,11
+bad_practices,Davor Bonaci,Control flow statements should not be nested too deeply,100
+bad_practices,Luke Cwik,Control flow statements should not be nested too deeply,27
+bad_practices,Dan Halperin,Control flow statements should not be nested too deeply,20
+bad_practices,Jean-Baptiste Onofre,Control flow statements should not be nested too deeply,67
+bad_practices,Kenneth Knowles,Control flow statements should not be nested too deeply,31
+bad_practices,Silviu Calinoiu,Control flow statements should not be nested too deeply,2
+bad_practices,Ben Chambers,Control flow statements should not be nested too deeply,9
+bad_practices,Aljoscha Krettek,Control flow statements should not be nested too deeply,50
+bad_practices,Amit Sela,Control flow statements should not be nested too deeply,4
+bad_practices,Robert Bradshaw,Control flow statements should not be nested too deeply,14
+bad_practices,Charles Chen,Control flow statements should not be nested too deeply,5
+bad_practices,Ahmet Altay,Control flow statements should not be nested too deeply,16
+bad_practices,Isma√il Mejea,Control flow statements should not be nested too deeply,0
+bad_practices,Chamikara Jayalath,Control flow statements should not be nested too deeply,2
+bad_practices,Scott Wegner,Complex Expression,2
+bad_practices,Maximilian Michels,Complex Expression,11
+bad_practices,Thomas Groh,Complex Expression,3
+bad_practices,Davor Bonaci,Complex Expression,18
+bad_practices,Luke Cwik,Complex Expression,3
+bad_practices,Dan Halperin,Complex Expression,2
+bad_practices,Jean-Baptiste Onofre,Complex Expression,9
+bad_practices,Kenneth Knowles,Complex Expression,1
+bad_practices,Silviu Calinoiu,Complex Expression,0
+bad_practices,Ben Chambers,Complex Expression,2
+bad_practices,Aljoscha Krettek,Complex Expression,10
+bad_practices,Amit Sela,Complex Expression,0
+bad_practices,Robert Bradshaw,Complex Expression,3
+bad_practices,Charles Chen,Complex Expression,3
+bad_practices,Ahmet Altay,Complex Expression,3
+bad_practices,Isma√il Mejea,Complex Expression,0
+bad_practices,Chamikara Jayalath,Complex Expression,1
+bad_practices,Scott Wegner,Do not throw RuntimeException,0
+bad_practices,Maximilian Michels,Do not throw RuntimeException,64
+bad_practices,Thomas Groh,Do not throw RuntimeException,4
+bad_practices,Davor Bonaci,Do not throw RuntimeException,128
+bad_practices,Luke Cwik,Do not throw RuntimeException,20
+bad_practices,Dan Halperin,Do not throw RuntimeException,55
+bad_practices,Jean-Baptiste Onofre,Do not throw RuntimeException,61
+bad_practices,Kenneth Knowles,Do not throw RuntimeException,33
+bad_practices,Silviu Calinoiu,Do not throw RuntimeException,14
+bad_practices,Ben Chambers,Do not throw RuntimeException,3
+bad_practices,Aljoscha Krettek,Do not throw RuntimeException,64
+bad_practices,Amit Sela,Do not throw RuntimeException,2
+bad_practices,Robert Bradshaw,Do not throw RuntimeException,50
+bad_practices,Charles Chen,Do not throw RuntimeException,50
+bad_practices,Ahmet Altay,Do not throw RuntimeException,87
+bad_practices,Isma√il Mejea,Do not throw RuntimeException,0
+bad_practices,Chamikara Jayalath,Do not throw RuntimeException,18
+bad_practices,Scott Wegner,Magic Number,21
+bad_practices,Maximilian Michels,Magic Number,478
+bad_practices,Thomas Groh,Magic Number,105
+bad_practices,Davor Bonaci,Magic Number,947
+bad_practices,Luke Cwik,Magic Number,182
+bad_practices,Dan Halperin,Magic Number,179
+bad_practices,Jean-Baptiste Onofre,Magic Number,512
+bad_practices,Kenneth Knowles,Magic Number,184
+bad_practices,Silviu Calinoiu,Magic Number,5
+bad_practices,Ben Chambers,Magic Number,48
+bad_practices,Aljoscha Krettek,Magic Number,473
+bad_practices,Amit Sela,Magic Number,29
+bad_practices,Robert Bradshaw,Magic Number,122
+bad_practices,Charles Chen,Magic Number,98
+bad_practices,Ahmet Altay,Magic Number,113
+bad_practices,Isma√il Mejea,Magic Number,10
+bad_practices,Chamikara Jayalath,Magic Number,41
+bad_practices,Scott Wegner,Non-Static Field,0
+bad_practices,Maximilian Michels,Non-Static Field,4
+bad_practices,Thomas Groh,Non-Static Field,2
+bad_practices,Davor Bonaci,Non-Static Field,8
+bad_practices,Luke Cwik,Non-Static Field,2
+bad_practices,Dan Halperin,Non-Static Field,6
+bad_practices,Jean-Baptiste Onofre,Non-Static Field,5
+bad_practices,Kenneth Knowles,Non-Static Field,1
+bad_practices,Silviu Calinoiu,Non-Static Field,0
+bad_practices,Ben Chambers,Non-Static Field,2
+bad_practices,Aljoscha Krettek,Non-Static Field,4
+bad_practices,Amit Sela,Non-Static Field,0
+bad_practices,Robert Bradshaw,Non-Static Field,6
+bad_practices,Charles Chen,Non-Static Field,6
+bad_practices,Ahmet Altay,Non-Static Field,4
+bad_practices,Isma√il Mejea,Non-Static Field,0
+bad_practices,Chamikara Jayalath,Non-Static Field,3
+bad_practices,Scott Wegner,Privacy Concern,7
+bad_practices,Maximilian Michels,Privacy Concern,226
+bad_practices,Thomas Groh,Privacy Concern,34
+bad_practices,Davor Bonaci,Privacy Concern,441
+bad_practices,Luke Cwik,Privacy Concern,66
+bad_practices,Dan Halperin,Privacy Concern,85
+bad_practices,Jean-Baptiste Onofre,Privacy Concern,225
+bad_practices,Kenneth Knowles,Privacy Concern,176
+bad_practices,Silviu Calinoiu,Privacy Concern,6
+bad_practices,Ben Chambers,Privacy Concern,10
+bad_practices,Aljoscha Krettek,Privacy Concern,220
+bad_practices,Amit Sela,Privacy Concern,8
+bad_practices,Robert Bradshaw,Privacy Concern,51
+bad_practices,Charles Chen,Privacy Concern,45
+bad_practices,Ahmet Altay,Privacy Concern,65
+bad_practices,Isma√il Mejea,Privacy Concern,3
+bad_practices,Chamikara Jayalath,Privacy Concern,17
+bad_practices,Scott Wegner,To Do,28
+bad_practices,Maximilian Michels,To Do,656
+bad_practices,Thomas Groh,To Do,147
+bad_practices,Davor Bonaci,To Do,1267
+bad_practices,Luke Cwik,To Do,217
+bad_practices,Dan Halperin,To Do,276
+bad_practices,Jean-Baptiste Onofre,To Do,577
+bad_practices,Kenneth Knowles,To Do,363
+bad_practices,Silviu Calinoiu,To Do,25
+bad_practices,Ben Chambers,To Do,115
+bad_practices,Aljoscha Krettek,To Do,632
+bad_practices,Amit Sela,To Do,32
+bad_practices,Robert Bradshaw,To Do,199
+bad_practices,Charles Chen,To Do,183
+bad_practices,Ahmet Altay,To Do,248
+bad_practices,Isma√il Mejea,To Do,9
+bad_practices,Chamikara Jayalath,To Do,75
+bad_practices,Scott Wegner,Non-Final Field,0
+bad_practices,Maximilian Michels,Non-Final Field,7
+bad_practices,Thomas Groh,Non-Final Field,0
+bad_practices,Davor Bonaci,Non-Final Field,14
+bad_practices,Luke Cwik,Non-Final Field,3
+bad_practices,Dan Halperin,Non-Final Field,1
+bad_practices,Jean-Baptiste Onofre,Non-Final Field,9
+bad_practices,Kenneth Knowles,Non-Final Field,4
+bad_practices,Silviu Calinoiu,Non-Final Field,0
+bad_practices,Ben Chambers,Non-Final Field,0
+bad_practices,Aljoscha Krettek,Non-Final Field,7
+bad_practices,Amit Sela,Non-Final Field,0
+bad_practices,Robert Bradshaw,Non-Final Field,0
+bad_practices,Charles Chen,Non-Final Field,0
+bad_practices,Ahmet Altay,Non-Final Field,0
+bad_practices,Isma√il Mejea,Non-Final Field,0
+bad_practices,Chamikara Jayalath,Non-Final Field,0
+bad_practices,Scott Wegner,Obsolete Code,2
+bad_practices,Maximilian Michels,Obsolete Code,64
+bad_practices,Thomas Groh,Obsolete Code,14
+bad_practices,Davor Bonaci,Obsolete Code,128
+bad_practices,Luke Cwik,Obsolete Code,17
+bad_practices,Dan Halperin,Obsolete Code,21
+bad_practices,Jean-Baptiste Onofre,Obsolete Code,65
+bad_practices,Kenneth Knowles,Obsolete Code,15
+bad_practices,Silviu Calinoiu,Obsolete Code,2
+bad_practices,Ben Chambers,Obsolete Code,6
+bad_practices,Aljoscha Krettek,Obsolete Code,64
+bad_practices,Amit Sela,Obsolete Code,1
+bad_practices,Robert Bradshaw,Obsolete Code,19
+bad_practices,Charles Chen,Obsolete Code,18
+bad_practices,Ahmet Altay,Obsolete Code,31
+bad_practices,Isma√il Mejea,Obsolete Code,0
+bad_practices,Chamikara Jayalath,Obsolete Code,7
+bad_practices,Scott Wegner,Rename method,2
+bad_practices,Maximilian Michels,Rename method,22
+bad_practices,Thomas Groh,Rename method,4
+bad_practices,Davor Bonaci,Rename method,44
+bad_practices,Luke Cwik,Rename method,12
+bad_practices,Dan Halperin,Rename method,17
+bad_practices,Jean-Baptiste Onofre,Rename method,24
+bad_practices,Kenneth Knowles,Rename method,11
+bad_practices,Silviu Calinoiu,Rename method,0
+bad_practices,Ben Chambers,Rename method,0
+bad_practices,Aljoscha Krettek,Rename method,22
+bad_practices,Amit Sela,Rename method,2
+bad_practices,Robert Bradshaw,Rename method,15
+bad_practices,Charles Chen,Rename method,15
+bad_practices,Ahmet Altay,Rename method,15
+bad_practices,Isma√il Mejea,Rename method,0
+bad_practices,Chamikara Jayalath,Rename method,6
+bad_practices,Scott Wegner,Classes should not be compared by name,0
+bad_practices,Maximilian Michels,Classes should not be compared by name,5
+bad_practices,Thomas Groh,Classes should not be compared by name,0
+bad_practices,Davor Bonaci,Classes should not be compared by name,10
+bad_practices,Luke Cwik,Classes should not be compared by name,0
+bad_practices,Dan Halperin,Classes should not be compared by name,0
+bad_practices,Jean-Baptiste Onofre,Classes should not be compared by name,4
+bad_practices,Kenneth Knowles,Classes should not be compared by name,0
+bad_practices,Silviu Calinoiu,Classes should not be compared by name,0
+bad_practices,Ben Chambers,Classes should not be compared by name,0
+bad_practices,Aljoscha Krettek,Classes should not be compared by name,7
+bad_practices,Amit Sela,Classes should not be compared by name,0
+bad_practices,Robert Bradshaw,Classes should not be compared by name,0
+bad_practices,Charles Chen,Classes should not be compared by name,0
+bad_practices,Ahmet Altay,Classes should not be compared by name,0
+bad_practices,Isma√il Mejea,Classes should not be compared by name,0
+bad_practices,Chamikara Jayalath,Classes should not be compared by name,0
+bad_practices,Scott Wegner,Move file,0
+bad_practices,Maximilian Michels,Move file,76
+bad_practices,Thomas Groh,Move file,0
+bad_practices,Davor Bonaci,Move file,4
+bad_practices,Luke Cwik,Move file,0
+bad_practices,Dan Halperin,Move file,0
+bad_practices,Jean-Baptiste Onofre,Move file,4
+bad_practices,Kenneth Knowles,Move file,4
+bad_practices,Silviu Calinoiu,Move file,0
+bad_practices,Ben Chambers,Move file,812
+bad_practices,Aljoscha Krettek,Move file,0
+bad_practices,Amit Sela,Move file,0
+bad_practices,Robert Bradshaw,Move file,0
+bad_practices,Charles Chen,Move file,0
+bad_practices,Ahmet Altay,Move file,0
+bad_practices,Isma√il Mejea,Move file,0
+bad_practices,Chamikara Jayalath,Move file,0

@@ -1,0 +1,7 @@
+"0","```r
+matches = glm(dec ~ like  + intel + attr + fun, 
+                  data = dados, 
+                  family = \"binomial\")
+
+tidy(matches, conf.int = TRUE, exponentiate = TRUE)
+```"

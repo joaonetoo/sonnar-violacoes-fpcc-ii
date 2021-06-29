@@ -1,0 +1,11 @@
+"0","```r
+clima_2019 %>% 
+    ggplot(mapping = aes(y = cidade, x  = vento_medio)) + 
+    geom_jitter(height = .1, color = \"steelblue\", alpha = .5) +
+     labs(
+         y = \"\", 
+         x = \"Vento mÃ©dio\"
+    ) +
+    ggtitle(\"Vento mÃ©dio nas cidades de CG, JP e Patos durante o ano de 2019\")
+
+```"

@@ -1,0 +1,6 @@
+"0","```r
+clima_jan_fev = clima %>% 
+    filter(mes <= 2, ano > 2009, ano < 2021, !is.na(temp_max))
+
+clima_jan_fev
+```"

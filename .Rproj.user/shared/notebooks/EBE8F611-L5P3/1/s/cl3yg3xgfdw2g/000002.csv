@@ -1,0 +1,38 @@
+"0","```r
+
+dados <- read_csv(\"data/speed-dating2.csv\")
+```"
+"1","
+-- Column specification -----------------------------------------------------------------------------------------------------------------------
+cols(
+  .default = col_double(),
+  field = col_character(),
+  from = col_character(),
+  career = col_character(),
+  attr3_s = col_logical(),
+  sinc3_s = col_logical(),
+  intel3_s = col_logical(),
+  fun3_s = col_logical(),
+  amb3_s = col_logical(),
+  dec = col_character()
+)
+i Use `spec()` for the full column specifications.
+
+10220 parsing failures.
+ row      col           expected actual                     file
+1847 attr3_s  1/0/T/F/TRUE/FALSE  8.00  'data/speed-dating2.csv'
+1847 sinc3_s  1/0/T/F/TRUE/FALSE  10.00 'data/speed-dating2.csv'
+1847 intel3_s 1/0/T/F/TRUE/FALSE  9.00  'data/speed-dating2.csv'
+1847 fun3_s   1/0/T/F/TRUE/FALSE  10    'data/speed-dating2.csv'
+1847 amb3_s   1/0/T/F/TRUE/FALSE  10    'data/speed-dating2.csv'
+.... ........ .................. ...... ........................
+See problems(...) for more details.
+"
+"0","```r
+dados <- dados %>% 
+  select(intel, attr, fun, like ,  dec) %>%
+  na.omit() %>% 
+  mutate(dec = as.factor(dec))
+
+dados
+```"
