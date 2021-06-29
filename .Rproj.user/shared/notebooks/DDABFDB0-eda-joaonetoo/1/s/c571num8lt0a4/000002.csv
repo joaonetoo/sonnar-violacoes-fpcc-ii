@@ -1,8 +1,0 @@
-"0","```r
-clima_2019 %>% 
-    filter(cidade == \"Patos\") %>% 
-    ggplot(aes(x = umidade)) + 
-    facet_wrap(~ factor(month.abb[mes],levels=month.abb))+ 
-    geom_density(fill = \"steelblue\", color = \"black\") +
-    ggtitle(\"VariaÃ§Ã£o da umidade mÃ©dia em Patos durante o ano de 2019\")
-```"

@@ -1,5 +1,0 @@
-"0","dados %>% "
-"0","  group_by(violation) %>% "
-"0","  summarise("
-"0","  soma = sum(count),"
-"0","  .groups =""drop"") %>%  ungroup() %>% arrange(desc(soma), .by_group = TRUE) "

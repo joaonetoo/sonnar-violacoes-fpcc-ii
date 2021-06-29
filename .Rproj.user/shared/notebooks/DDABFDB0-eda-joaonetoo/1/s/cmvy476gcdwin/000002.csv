@@ -1,8 +1,0 @@
-"0","```r
-clima_2019 %>% 
-    ggplot(aes(x = vento_medio)) + 
-    facet_wrap(~ cidade, ncol = 1)+ 
-    geom_histogram(binwidth = .4, fill = \"steelblue\", color = \"black\") +
-    ggtitle(\"Histograma do vento mÃ©dio nas cidades de CG, JP e Patos durante o ano de 2019\")
-
-```"

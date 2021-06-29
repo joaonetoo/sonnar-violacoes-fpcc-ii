@@ -1,9 +1,0 @@
-"0","```r
-
-clima %>% 
-    filter(cidade == \"Patos\", ano > 2009, ano < 2021, ano != 2019, !is.na(umidade)) %>% 
-    ggplot(aes(x = umidade)) + 
-    facet_wrap(~ factor(month.abb[mes],levels=month.abb))+ 
-    geom_density(fill = \"steelblue\", color = \"black\") +
-      ggtitle(\"VariaÃ§Ã£o da umidade mÃ©dia em Patos ao longo dos Ãºltimos 10 anos\")
-```"
